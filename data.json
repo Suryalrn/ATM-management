@@ -1,0 +1,19 @@
+{
+    "cards": [
+        {
+            "card_number": 4,
+            "balance": 0,
+            "pin": ""
+        },
+        {
+            "card_number": 1,
+            "balance": 0,
+            "pin": ""
+        },
+        {
+            "card_number": 1,
+            "balance": 0,
+            "pin": ""
+        }
+    ]
+}
